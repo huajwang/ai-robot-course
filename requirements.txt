@@ -1,0 +1,4 @@
+# Build Your First AI Robot — Python dependencies (Week 5+)
+pyserial>=3.5
+opencv-python>=4.8.0
+ultralytics>=8.0.0

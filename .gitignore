@@ -1,0 +1,26 @@
+# Arduino / PlatformIO build leftovers
+.pio/
+.vscode/.browse.c_cpp.db*
+*.hex
+*.elf
+*.o
+*.bin
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/*
+!.vscode/extensions.json
+
+# Python (Week 5+)
+__pycache__/
+.venv/
+venv/
+*.pt
+*.pth
+
+# Student captures / logs
+*.log
+output/
+!**/output/.gitkeep
